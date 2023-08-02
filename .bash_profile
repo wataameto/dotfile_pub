@@ -28,8 +28,6 @@ alias mer='wine  ~/windows/winmerge/WinMergeU.exe'
 
 tabs -4
 
-export PATH=$PATH:$HOME/bin
-
 if [ `hostname` == 'CA2523.local' ]
 then
   echo 'local macintosh'
