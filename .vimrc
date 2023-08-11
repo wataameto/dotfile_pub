@@ -267,4 +267,9 @@ call submode#map('bufmove', 'n', '', '>', '<C-w>>')
 call submode#map('bufmove', 'n', '', '<', '<C-w><')
 call submode#map('bufmove', 'n', '', '+', '<C-w>+')
 call submode#map('bufmove', 'n', '', '-', '<C-w>-')
-air2020g:user ~/work/lima$
+"
+"  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+"
+"  motokai
+"  https://gist.github.com/Fendo181/1bdac7bb98cb87c1feef700dbdcdd22e
+"
